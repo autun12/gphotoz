@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<image>
+<read filename="/path/to/source/file" />
+<write filename="/path/to/destination" />
+</image>
